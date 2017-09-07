@@ -4,7 +4,7 @@ Plugin Name: cf-user
 Plugin URI: 
 Description: 
 Version: 1.0.0
-Author:
+Author: andxbes and cf-7 team 
 Author URI: 
 License: GPLv2
 */
